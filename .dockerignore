@@ -1,0 +1,8 @@
+node_modules
+dist
+server
+nginx
+docker-compose.yml
+deployments-services.yml
+
+README.md
